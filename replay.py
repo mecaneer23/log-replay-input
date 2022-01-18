@@ -1,14 +1,15 @@
 import json
 import time
-from pynput import keyboard
-from pynput.mouse import Button, Controller as MouseController
-from pynput.keyboard import Listener, KeyCode, Key, Controller as KeyboardController
+from pynput.mouse import Controller as MouseController
+from pynput.keyboard import Controller as KeyboardController
 import threading
 
 with open("config.json") as config:
     config = json.load(config)
 
+
 class MyMouseController(threading.Thread):
+
     def __init__(self, instructions=[], mouse=MouseController, pressed=False):
         super(MyMouseController, self).__init__()
         self.instructions = instructions
@@ -24,7 +25,9 @@ class MyMouseController(threading.Thread):
             if i["pressed"] == True:
                 self.mouse.press(eval(i["button"]))
                 self.pressed = True
-            if self.pressed == True and i["pressed"] == False and i["button"] is not None:
+            if (self.pressed == True and
+                i["pressed"] == False and
+                i["button"] is not None):
                 self.mouse.release(eval(i["button"]))
                 self.pressed = False
 
@@ -32,7 +35,12 @@ class MyMouseController(threading.Thread):
 
 
 class MyKeyboardController(threading.Thread):
-    def __init__(self, instructions=[], keyboard=KeyboardController, pressed=False, special=False):
+
+    def __init__(self,
+                instructions=[],
+                keyboard=KeyboardController,
+                pressed=False,
+                special=False):
         super(MyKeyboardController, self).__init__()
         self.instructions = instructions
         self.keyboard = keyboard()
@@ -57,7 +65,8 @@ class MyKeyboardController(threading.Thread):
                     self.keyboard.release(i["key"])
                 self.pressed = False
 
-            time.sleep(i["time"])        
+            time.sleep(i["time"])
+
 
 def replay(file):
     with open(file) as input_file:
@@ -77,6 +86,5 @@ def replay(file):
 
 
 replay(input("filename: ") or config["storage_file"])
-
 
 # when done with entire project, add gamepad support using vgamepad
