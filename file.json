@@ -1,0 +1,1660 @@
+{
+    "keyboard": [
+        {
+            "key": "Key.enter",
+            "pressed": true,
+            "special": true,
+            "time": 7.843229293823242
+        },
+        {
+            "key": "Key.enter",
+            "pressed": false,
+            "special": true,
+            "time": 2.7713332176208496
+        },
+        {
+            "key": "d",
+            "pressed": true,
+            "special": false,
+            "time": 0.07192230224609375
+        },
+        {
+            "key": "o",
+            "pressed": true,
+            "special": false,
+            "time": 0.3203873634338379
+        },
+        {
+            "key": "d",
+            "pressed": false,
+            "special": false,
+            "time": 0.06407666206359863
+        },
+        {
+            "key": "o",
+            "pressed": false,
+            "special": false,
+            "time": 0.032000064849853516
+        },
+        {
+            "key": "e",
+            "pressed": true,
+            "special": false,
+            "time": 0.05512714385986328
+        },
+        {
+            "key": "e",
+            "pressed": false,
+            "special": false,
+            "time": 0.04799985885620117
+        },
+        {
+            "key": "s",
+            "pressed": true,
+            "special": false,
+            "time": 0.02398681640625
+        },
+        {
+            "key": "s",
+            "pressed": false,
+            "special": false,
+            "time": 0.10399413108825684
+        },
+        {
+            "key": "Key.space",
+            "pressed": true,
+            "special": true,
+            "time": 0.12799787521362305
+        },
+        {
+            "key": "Key.space",
+            "pressed": false,
+            "special": true,
+            "time": 0.04799699783325195
+        },
+        {
+            "key": "t",
+            "pressed": true,
+            "special": false,
+            "time": 0.12800216674804688
+        },
+        {
+            "key": "h",
+            "pressed": true,
+            "special": false,
+            "time": 0.06400036811828613
+        },
+        {
+            "key": "t",
+            "pressed": false,
+            "special": false,
+            "time": 0.08808016777038574
+        },
+        {
+            "key": "i",
+            "pressed": true,
+            "special": false,
+            "time": 0.008091449737548828
+        },
+        {
+            "key": "h",
+            "pressed": false,
+            "special": false,
+            "time": 0.08798813819885254
+        },
+        {
+            "key": "i",
+            "pressed": false,
+            "special": false,
+            "time": 0.0399172306060791
+        },
+        {
+            "key": "s",
+            "pressed": true,
+            "special": false,
+            "time": 0.0800013542175293
+        },
+        {
+            "key": "Key.space",
+            "pressed": true,
+            "special": true,
+            "time": 0.04808783531188965
+        },
+        {
+            "key": "s",
+            "pressed": false,
+            "special": false,
+            "time": 0.1039426326751709
+        },
+        {
+            "key": "Key.space",
+            "pressed": false,
+            "special": true,
+            "time": 0.016057252883911133
+        },
+        {
+            "key": "w",
+            "pressed": true,
+            "special": false,
+            "time": 0.12828564643859863
+        },
+        {
+            "key": "o",
+            "pressed": true,
+            "special": false,
+            "time": 0.1119987964630127
+        },
+        {
+            "key": "w",
+            "pressed": false,
+            "special": false,
+            "time": 0.04016399383544922
+        },
+        {
+            "key": "o",
+            "pressed": false,
+            "special": false,
+            "time": 0.05607962608337402
+        },
+        {
+            "key": "r",
+            "pressed": true,
+            "special": false,
+            "time": 0.039923667907714844
+        },
+        {
+            "key": "k",
+            "pressed": true,
+            "special": false,
+            "time": 0.12799692153930664
+        },
+        {
+            "key": "r",
+            "pressed": false,
+            "special": false,
+            "time": 0.016000032424926758
+        },
+        {
+            "key": "k",
+            "pressed": false,
+            "special": false,
+            "time": 0.07999801635742188
+        },
+        {
+            "key": "Key.shift",
+            "pressed": true,
+            "special": true,
+            "time": 0.03207874298095703
+        },
+        {
+            "key": ">",
+            "pressed": true,
+            "special": false,
+            "time": 0.15927791595458984
+        },
+        {
+            "key": "?",
+            "pressed": true,
+            "special": false,
+            "time": 0.10492372512817383
+        },
+        {
+            "key": ">",
+            "pressed": false,
+            "special": false,
+            "time": 0.0
+        },
+        {
+            "key": "?",
+            "pressed": false,
+            "special": false,
+            "time": 0.07900142669677734
+        },
+        {
+            "key": "Key.shift",
+            "pressed": false,
+            "special": true,
+            "time": 0.01608872413635254
+        },
+        {
+            "key": "Key.backspace",
+            "pressed": true,
+            "special": true,
+            "time": 0.09600186347961426
+        },
+        {
+            "key": "Key.backspace",
+            "pressed": false,
+            "special": true,
+            "time": 0.3200697898864746
+        },
+        {
+            "key": "Key.backspace",
+            "pressed": true,
+            "special": true,
+            "time": 0.06399250030517578
+        },
+        {
+            "key": "Key.shift",
+            "pressed": true,
+            "special": true,
+            "time": 0.07999253273010254
+        },
+        {
+            "key": "Key.backspace",
+            "pressed": false,
+            "special": true,
+            "time": 0.0560147762298584
+        },
+        {
+            "key": "?",
+            "pressed": true,
+            "special": false,
+            "time": 0.03199887275695801
+        },
+        {
+            "key": "Key.shift",
+            "pressed": false,
+            "special": true,
+            "time": 0.032906532287597656
+        },
+        {
+            "key": "/",
+            "pressed": false,
+            "special": false,
+            "time": 0.11109519004821777
+        },
+        {
+            "key": "Key.enter",
+            "pressed": true,
+            "special": true,
+            "time": 0.03190732002258301
+        }
+    ],
+    "mouse": [
+        {
+            "x": 1829,
+            "y": 55,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 7.351227521896362
+        },
+        {
+            "x": 1829,
+            "y": 57,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.17719793319702148
+        },
+        {
+            "x": 1829,
+            "y": 60,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00800013542175293
+        },
+        {
+            "x": 1829,
+            "y": 63,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007999897003173828
+        },
+        {
+            "x": 1829,
+            "y": 67,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.0070056915283203125
+        },
+        {
+            "x": 1829,
+            "y": 74,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008996725082397461
+        },
+        {
+            "x": 1829,
+            "y": 78,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.015997648239135742
+        },
+        {
+            "x": 1829,
+            "y": 82,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.010000467300415039
+        },
+        {
+            "x": 1829,
+            "y": 87,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.005999088287353516
+        },
+        {
+            "x": 1829,
+            "y": 91,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007999420166015625
+        },
+        {
+            "x": 1829,
+            "y": 97,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00800180435180664
+        },
+        {
+            "x": 1829,
+            "y": 103,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.005074501037597656
+        },
+        {
+            "x": 1829,
+            "y": 110,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00892496109008789
+        },
+        {
+            "x": 1829,
+            "y": 117,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.0069997310638427734
+        },
+        {
+            "x": 1829,
+            "y": 128,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007999181747436523
+        },
+        {
+            "x": 1830,
+            "y": 136,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.009001493453979492
+        },
+        {
+            "x": 1831,
+            "y": 143,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007999658584594727
+        },
+        {
+            "x": 1834,
+            "y": 156,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008000373840332031
+        },
+        {
+            "x": 1836,
+            "y": 167,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007101774215698242
+        },
+        {
+            "x": 1840,
+            "y": 181,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008903980255126953
+        },
+        {
+            "x": 1847,
+            "y": 206,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.011993885040283203
+        },
+        {
+            "x": 1852,
+            "y": 220,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.010001897811889648
+        },
+        {
+            "x": 1857,
+            "y": 234,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007998228073120117
+        },
+        {
+            "x": 1868,
+            "y": 258,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.011000394821166992
+        },
+        {
+            "x": 1873,
+            "y": 271,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.012076854705810547
+        },
+        {
+            "x": 1879,
+            "y": 283,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008921623229980469
+        },
+        {
+            "x": 1884,
+            "y": 295,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008003950119018555
+        },
+        {
+            "x": 1888,
+            "y": 306,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00799703598022461
+        },
+        {
+            "x": 1891,
+            "y": 317,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.006999969482421875
+        },
+        {
+            "x": 1893,
+            "y": 325,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.009000062942504883
+        },
+        {
+            "x": 1896,
+            "y": 336,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.006024599075317383
+        },
+        {
+            "x": 1902,
+            "y": 363,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.013156890869140625
+        },
+        {
+            "x": 1905,
+            "y": 375,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.009979963302612305
+        },
+        {
+            "x": 1907,
+            "y": 387,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008282899856567383
+        },
+        {
+            "x": 1911,
+            "y": 403,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008003473281860352
+        },
+        {
+            "x": 1913,
+            "y": 416,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007911920547485352
+        },
+        {
+            "x": 1916,
+            "y": 427,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008078813552856445
+        },
+        {
+            "x": 1919,
+            "y": 442,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007923126220703125
+        },
+        {
+            "x": 1922,
+            "y": 456,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008004903793334961
+        },
+        {
+            "x": 1924,
+            "y": 466,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008069753646850586
+        },
+        {
+            "x": 1926,
+            "y": 475,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.0059244632720947266
+        },
+        {
+            "x": 1929,
+            "y": 491,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008076190948486328
+        },
+        {
+            "x": 1930,
+            "y": 500,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007921695709228516
+        },
+        {
+            "x": 1932,
+            "y": 514,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00800466537475586
+        },
+        {
+            "x": 1934,
+            "y": 524,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007995128631591797
+        },
+        {
+            "x": 1936,
+            "y": 540,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007997751235961914
+        },
+        {
+            "x": 1939,
+            "y": 550,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00807952880859375
+        },
+        {
+            "x": 1941,
+            "y": 563,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00792074203491211
+        },
+        {
+            "x": 1943,
+            "y": 573,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007999897003173828
+        },
+        {
+            "x": 1946,
+            "y": 589,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008497238159179688
+        },
+        {
+            "x": 1948,
+            "y": 599,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00753331184387207
+        },
+        {
+            "x": 1951,
+            "y": 612,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.006003379821777344
+        },
+        {
+            "x": 1953,
+            "y": 622,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007996082305908203
+        },
+        {
+            "x": 1955,
+            "y": 631,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008002281188964844
+        },
+        {
+            "x": 1957,
+            "y": 640,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007998228073120117
+        },
+        {
+            "x": 1958,
+            "y": 648,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00801539421081543
+        },
+        {
+            "x": 1960,
+            "y": 656,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007983922958374023
+        },
+        {
+            "x": 1962,
+            "y": 663,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008010149002075195
+        },
+        {
+            "x": 1963,
+            "y": 669,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007991313934326172
+        },
+        {
+            "x": 1964,
+            "y": 677,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008005619049072266
+        },
+        {
+            "x": 1966,
+            "y": 684,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008069992065429688
+        },
+        {
+            "x": 1966,
+            "y": 689,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008002758026123047
+        },
+        {
+            "x": 1967,
+            "y": 694,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.0059239864349365234
+        },
+        {
+            "x": 1968,
+            "y": 699,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008076667785644531
+        },
+        {
+            "x": 1968,
+            "y": 703,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007998466491699219
+        },
+        {
+            "x": 1968,
+            "y": 707,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008000850677490234
+        },
+        {
+            "x": 1968,
+            "y": 713,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00800013542175293
+        },
+        {
+            "x": 1969,
+            "y": 716,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007926225662231445
+        },
+        {
+            "x": 1969,
+            "y": 718,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008073806762695312
+        },
+        {
+            "x": 1969,
+            "y": 721,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008010625839233398
+        },
+        {
+            "x": 1970,
+            "y": 726,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007913589477539062
+        },
+        {
+            "x": 1970,
+            "y": 729,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008084297180175781
+        },
+        {
+            "x": 1971,
+            "y": 732,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007913589477539062
+        },
+        {
+            "x": 1972,
+            "y": 735,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.0060842037200927734
+        },
+        {
+            "x": 1972,
+            "y": 736,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008000373840332031
+        },
+        {
+            "x": 1973,
+            "y": 737,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008007049560546875
+        },
+        {
+            "x": 1973,
+            "y": 738,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007909774780273438
+        },
+        {
+            "x": 1974,
+            "y": 738,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008085012435913086
+        },
+        {
+            "x": 1972,
+            "y": 738,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.024006128311157227
+        },
+        {
+            "x": 1971,
+            "y": 738,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.10199880599975586
+        },
+        {
+            "x": 1969,
+            "y": 739,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007910013198852539
+        },
+        {
+            "x": 1966,
+            "y": 739,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00799560546875
+        },
+        {
+            "x": 1964,
+            "y": 740,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008092403411865234
+        },
+        {
+            "x": 1962,
+            "y": 740,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.005911827087402344
+        },
+        {
+            "x": 1961,
+            "y": 741,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008078575134277344
+        },
+        {
+            "x": 1959,
+            "y": 741,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008001565933227539
+        },
+        {
+            "x": 1958,
+            "y": 742,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007996320724487305
+        },
+        {
+            "x": 1957,
+            "y": 743,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.015926122665405273
+        },
+        {
+            "x": 1957,
+            "y": 744,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.01600027084350586
+        },
+        {
+            "x": 1957,
+            "y": 746,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.014075040817260742
+        },
+        {
+            "x": 1957,
+            "y": 747,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008000612258911133
+        },
+        {
+            "x": 1958,
+            "y": 749,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007999897003173828
+        },
+        {
+            "x": 1959,
+            "y": 751,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00800633430480957
+        },
+        {
+            "x": 1960,
+            "y": 754,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007919788360595703
+        },
+        {
+            "x": 1964,
+            "y": 757,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.01008749008178711
+        },
+        {
+            "x": 1968,
+            "y": 762,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.005996227264404297
+        },
+        {
+            "x": 1975,
+            "y": 768,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007997989654541016
+        },
+        {
+            "x": 1981,
+            "y": 773,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008001565933227539
+        },
+        {
+            "x": 1986,
+            "y": 776,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007997274398803711
+        },
+        {
+            "x": 1992,
+            "y": 779,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008001089096069336
+        },
+        {
+            "x": 1998,
+            "y": 783,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.0059604644775390625
+        },
+        {
+            "x": 2003,
+            "y": 784,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008044958114624023
+        },
+        {
+            "x": 2007,
+            "y": 785,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00791168212890625
+        },
+        {
+            "x": 2010,
+            "y": 785,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008088111877441406
+        },
+        {
+            "x": 2011,
+            "y": 785,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007915258407592773
+        },
+        {
+            "x": 2012,
+            "y": 785,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.010085344314575195
+        },
+        {
+            "x": 2013,
+            "y": 785,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00590968132019043
+        },
+        {
+            "x": 2014,
+            "y": 785,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.0320892333984375
+        },
+        {
+            "x": 2018,
+            "y": 788,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.006000995635986328
+        },
+        {
+            "x": 2024,
+            "y": 792,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00790858268737793
+        },
+        {
+            "x": 2031,
+            "y": 797,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008085489273071289
+        },
+        {
+            "x": 2039,
+            "y": 803,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008004188537597656
+        },
+        {
+            "x": 2064,
+            "y": 818,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007995128631591797
+        },
+        {
+            "x": 2075,
+            "y": 824,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.015913724899291992
+        },
+        {
+            "x": 2092,
+            "y": 834,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.010086536407470703
+        },
+        {
+            "x": 2109,
+            "y": 844,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.005913734436035156
+        },
+        {
+            "x": 2125,
+            "y": 853,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008002519607543945
+        },
+        {
+            "x": 2141,
+            "y": 863,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008075475692749023
+        },
+        {
+            "x": 2158,
+            "y": 874,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.0060083866119384766
+        },
+        {
+            "x": 2175,
+            "y": 884,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008015632629394531
+        },
+        {
+            "x": 2188,
+            "y": 893,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007985830307006836
+        },
+        {
+            "x": 2204,
+            "y": 904,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007999420166015625
+        },
+        {
+            "x": 2215,
+            "y": 911,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00791168212890625
+        },
+        {
+            "x": 2225,
+            "y": 918,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008109092712402344
+        },
+        {
+            "x": 2237,
+            "y": 926,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008083105087280273
+        },
+        {
+            "x": 2244,
+            "y": 931,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008004188537597656
+        },
+        {
+            "x": 2251,
+            "y": 935,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00817108154296875
+        },
+        {
+            "x": 2259,
+            "y": 941,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.011918783187866211
+        },
+        {
+            "x": 2260,
+            "y": 942,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.010077238082885742
+        },
+        {
+            "x": 2260,
+            "y": 943,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007997751235961914
+        },
+        {
+            "x": 2260,
+            "y": 944,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.01592111587524414
+        },
+        {
+            "x": 2259,
+            "y": 944,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.024000167846679688
+        },
+        {
+            "x": 2258,
+            "y": 944,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.022091150283813477
+        },
+        {
+            "x": 2258,
+            "y": 943,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.03966569900512695
+        },
+        {
+            "x": 2258,
+            "y": 943,
+            "pressed": true,
+            "button": "Button.left",
+            "scroll_direction": 0,
+            "time": 0.12591266632080078
+        },
+        {
+            "x": 2258,
+            "y": 943,
+            "pressed": false,
+            "button": "Button.left",
+            "scroll_direction": 0,
+            "time": 0.12500429153442383
+        },
+        {
+            "x": 2256,
+            "y": 943,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.09299445152282715
+        },
+        {
+            "x": 2247,
+            "y": 940,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 5.028414487838745
+        },
+        {
+            "x": 2234,
+            "y": 938,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00799870491027832
+        },
+        {
+            "x": 2219,
+            "y": 936,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007925033569335938
+        },
+        {
+            "x": 2202,
+            "y": 934,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007997989654541016
+        },
+        {
+            "x": 2183,
+            "y": 932,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008002281188964844
+        },
+        {
+            "x": 2157,
+            "y": 929,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008076667785644531
+        },
+        {
+            "x": 2132,
+            "y": 926,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007921695709228516
+        },
+        {
+            "x": 2101,
+            "y": 925,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.0059986114501953125
+        },
+        {
+            "x": 2076,
+            "y": 925,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00800013542175293
+        },
+        {
+            "x": 2045,
+            "y": 925,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008083343505859375
+        },
+        {
+            "x": 2007,
+            "y": 926,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008008241653442383
+        },
+        {
+            "x": 1970,
+            "y": 928,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007991552352905273
+        },
+        {
+            "x": 1932,
+            "y": 930,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00800180435180664
+        },
+        {
+            "x": 1889,
+            "y": 931,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007999420166015625
+        },
+        {
+            "x": 1845,
+            "y": 933,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007915258407592773
+        },
+        {
+            "x": 1809,
+            "y": 935,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008002519607543945
+        },
+        {
+            "x": 1766,
+            "y": 937,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007997512817382812
+        },
+        {
+            "x": 1729,
+            "y": 941,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00608515739440918
+        },
+        {
+            "x": 1698,
+            "y": 943,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007999897003173828
+        },
+        {
+            "x": 1670,
+            "y": 946,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007917642593383789
+        },
+        {
+            "x": 1646,
+            "y": 949,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008095979690551758
+        },
+        {
+            "x": 1624,
+            "y": 951,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007990837097167969
+        },
+        {
+            "x": 1606,
+            "y": 954,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00799560546875
+        },
+        {
+            "x": 1588,
+            "y": 957,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007994890213012695
+        },
+        {
+            "x": 1574,
+            "y": 959,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008002758026123047
+        },
+        {
+            "x": 1562,
+            "y": 961,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007919073104858398
+        },
+        {
+            "x": 1544,
+            "y": 963,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008082389831542969
+        },
+        {
+            "x": 1533,
+            "y": 965,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00799703598022461
+        },
+        {
+            "x": 1520,
+            "y": 966,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00800323486328125
+        },
+        {
+            "x": 1509,
+            "y": 968,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.0060002803802490234
+        },
+        {
+            "x": 1503,
+            "y": 968,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.00800013542175293
+        },
+        {
+            "x": 1498,
+            "y": 969,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007916927337646484
+        },
+        {
+            "x": 1496,
+            "y": 969,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.008078575134277344
+        },
+        {
+            "x": 1495,
+            "y": 970,
+            "pressed": false,
+            "button": null,
+            "scroll_direction": 0,
+            "time": 0.007921457290649414
+        },
+        {
+            "x": 1495,
+            "y": 970,
+            "pressed": true,
+            "button": "Button.left",
+            "scroll_direction": 0,
+            "time": 0.01600050926208496
+        },
+        {
+            "x": 1495,
+            "y": 970,
+            "pressed": false,
+            "button": "Button.left",
+            "scroll_direction": 0,
+            "time": 0.15636301040649414
+        }
+    ]
+}
