@@ -1,5 +1,6 @@
 import json
 import time
+from pynput import mouse, keyboard
 from pynput.mouse import Controller as MouseController
 from pynput.keyboard import Controller as KeyboardController
 import threading
@@ -8,10 +9,9 @@ with open("config.json") as config:
     config = json.load(config)
 
 
-class MyMouseController(threading.Thread):
+class MyMouseController:
 
     def __init__(self, instructions=[], mouse=MouseController, pressed=False):
-        super(MyMouseController, self).__init__()
         self.instructions = instructions
         self.mouse = mouse()
         self.pressed = pressed
@@ -20,28 +20,30 @@ class MyMouseController(threading.Thread):
         self.instructions.append(instruction)
 
     def run(self):
-        for i in self.instructions:
-            self.mouse.position = (i["x"], i["y"])
-            if i["pressed"] == True:
-                self.mouse.press(eval(i["button"]))
-                self.pressed = True
-            if (self.pressed == True and
-                i["pressed"] == False and
-                i["button"] is not None):
-                self.mouse.release(eval(i["button"]))
-                self.pressed = False
+        for i, v in enumerate(self.instructions):
+            self.mouse.position = (v["x"], v["y"])
+            try:
+                if v["pressed"] == True:
+                    self.mouse.press(eval(f"mouse.{v['button']}"))
+                    self.pressed = True
+                if (self.pressed == True and
+                    v["pressed"] == False and
+                    v["button"] is not None):
+                    self.mouse.release(eval(f"mouse.{v['button']}"))
+                    self.pressed = False
+            except NameError as e:
+                print(v, e)
+                exit(1)
+            time.sleep(v["time"])
 
-            time.sleep(i["time"])
 
-
-class MyKeyboardController(threading.Thread):
+class MyKeyboardController:
 
     def __init__(self,
                 instructions=[],
                 keyboard=KeyboardController,
                 pressed=False,
                 special=False):
-        super(MyKeyboardController, self).__init__()
         self.instructions = instructions
         self.keyboard = keyboard()
         self.pressed = pressed
@@ -54,13 +56,14 @@ class MyKeyboardController(threading.Thread):
         for i in self.instructions:
             if i["pressed"] == True:
                 if i["special"] == True:
-                    self.keyboard.press(eval(i["key"]))
+                    self.keyboard.press(eval(f"keyboard.{i['key']}"))
                 else:
                     self.keyboard.press(i["key"])
+                    print(i["key"])
                 self.pressed = True
             if self.pressed == True and i["pressed"] == False:
                 if i["special"] == True:
-                    self.keyboard.release(eval(i["key"]))
+                    self.keyboard.release(eval(f"keyboard.{i['key']}"))
                 else:
                     self.keyboard.release(i["key"])
                 self.pressed = False
@@ -81,8 +84,8 @@ def replay(file):
     for instruction in instructions["keyboard"]:
         keyboard.add_instruction(instruction)
 
-    mouse.run()
-    keyboard.run()
+    threading.Thread(target=mouse.run).start()
+    threading.Thread(target=keyboard.run).start()
 
 
 replay(input("filename: ") or config["storage_file"])
