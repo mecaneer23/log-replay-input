@@ -7,5 +7,4 @@ null
 ## TODO
 
 - I still haven't added scroll functionality to replay
-- the keyboard replay seems to be a bit funky when it comes to actually working
-  - it only sends the message after the app stops
+- I need to add a 'null' keypress and a 'null' mouse click. Without this, it starts executing from the start of time, without accounting for any time nothing happens. In order for anything to happen, a key must be pressed, or the mouse must be engaged(moving, clicking, etc.)

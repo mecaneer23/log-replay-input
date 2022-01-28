@@ -37,7 +37,12 @@ def on_scroll_mouse(x, y, dx, dy):
 def add_keypress(key, pressed, special):
     global output
     output["keyboard"].append(
-        {"key": key, "pressed": pressed, "special": special, "time": None}
+        {
+            "key": key,
+            "pressed": pressed,
+            "special": special,
+            "time": None
+        }
     )
     output["keyboard_times"].append(time.time())
 
