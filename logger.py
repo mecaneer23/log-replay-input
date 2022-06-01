@@ -73,9 +73,9 @@ def start_logging():
 def finish_logging(file):
     for i, _ in enumerate(output["keyboard"]):
         output["keyboard"][i]["time"] = abs(output["keyboard_times"][i] - output["keyboard_times"][i-1])
+    output.pop("keyboard_times")
     for i, _ in enumerate(output["mouse"]):
         output["mouse"][i]["time"] = abs(output["mouse_times"][i] - output["mouse_times"][i - 1])
-    output.pop("keyboard_times")
     output.pop("mouse_times")
     with open(file, "w") as output_file:
         json.dump(output, output_file)

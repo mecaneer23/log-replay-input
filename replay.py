@@ -1,6 +1,5 @@
 import json
 import time
-from pynput import mouse, keyboard
 from pynput.mouse import Controller as MouseController
 from pynput.keyboard import Controller as KeyboardController
 import threading
@@ -23,11 +22,11 @@ class MyMouseController:
         for i, v in enumerate(self.instructions):
             self.mouse.position = (v["x"], v["y"])
             try:
-                if v["pressed"] == True:
+                if v["pressed"]:
                     self.mouse.press(eval(f"mouse.{v['button']}"))
                     self.pressed = True
-                if (self.pressed == True and
-                    v["pressed"] == False and
+                if (self.pressed and
+                    not v["pressed"] and
                     v["button"] is not None):
                     self.mouse.release(eval(f"mouse.{v['button']}"))
                     self.pressed = False
@@ -54,15 +53,15 @@ class MyKeyboardController:
 
     def run(self):
         for i in self.instructions:
-            if i["pressed"] == True:
-                if i["special"] == True:
+            if i["pressed"]:
+                if i["special"]:
                     self.keyboard.press(eval(f"keyboard.{i['key']}"))
                 else:
                     self.keyboard.press(i["key"])
                     print(i["key"])
                 self.pressed = True
-            if self.pressed == True and i["pressed"] == False:
-                if i["special"] == True:
+            if self.pressed and not i["pressed"]:
+                if i["special"]:
                     self.keyboard.release(eval(f"keyboard.{i['key']}"))
                 else:
                     self.keyboard.release(i["key"])

@@ -2,7 +2,7 @@
 
 ## How to use this repository
 
-null
+N/A currently
 
 ## TODO
 
